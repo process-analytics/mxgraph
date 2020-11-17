@@ -1,3 +1,15 @@
+Looking for maintainers
+===
+
+-----------------------------------------
+
+**09 Nov 2020**: Developments on mxGraph has stopped in the [original repository](https://github.com/jgraph/mxgraph).
+
+If you are interested in seeing this project kept alive, please have a look at the https://github.com/jsGraph/mxgraph repository
+
+-----------------------------------------
+
+
 mxGraph
 =======
 
